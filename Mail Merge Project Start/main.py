@@ -19,4 +19,4 @@ for name in name_list:
             personalised_content = contents.replace("[name]", name)
             invite.write(personalised_content)
 
-
+''' Replit to Pycharm'''
